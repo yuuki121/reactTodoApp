@@ -1,0 +1,25 @@
+.sideBar{
+    flex: 0.25;
+    background-color: rgb(72, 83, 182);
+    height: 100vh;
+}
+
+.homeicon {
+    color: azure;
+}
+
+#title{
+    color: azure;  
+    margin-top: 0%;
+}
+
+#inputform {
+    margin: 10px;
+    position: relative;
+}
+
+#button{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}

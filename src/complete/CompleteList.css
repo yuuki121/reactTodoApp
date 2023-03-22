@@ -1,0 +1,6 @@
+.completeList {
+    flex: 0.3;
+    border-right: 1px rgb(187, 184, 184) solid;
+    overflow:scroll;
+    height: 100vh;
+}
