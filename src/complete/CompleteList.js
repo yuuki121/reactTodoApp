@@ -7,7 +7,6 @@ import { TodosContext } from '../App';
 function CompleteList() {
   const todos = React.useContext(TodosContext);
   return (
-
     <div className='completeList'>
       <PlaylistAddCheckIcon />
       {
